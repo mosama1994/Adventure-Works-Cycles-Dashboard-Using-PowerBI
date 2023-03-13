@@ -3,4 +3,4 @@ Using PowerBI to create a dashboard for analysis of adventure works cycles data 
 
 The folder named "AventureWorks+CSV+Files" contains all the csv data files used to create the dashboard. The Adventure Works Logo is also included in the reporsitory.
 
-The main PowerBI report is named "AdventureWorks_Report_COMPLETE.pbix".
+The main PowerBI report is named **"AdventureWorks_Report_COMPLETE.pbix"**.
